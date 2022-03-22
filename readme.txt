@@ -1,0 +1,1 @@
+Search text by mask in big files
